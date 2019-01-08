@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/changeLocation"
+        android:title="@string/changeLoc">
+    </item>
+
+    <item
+        android:id="@+id/changeTempUnit"
+        android:title="@string/changeTemp">
+    </item>
+    <item android:title="@string/refresh"
+        android:id="@+id/refreshData"/>
+
+</menu>

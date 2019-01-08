@@ -1,0 +1,122 @@
+{"cities" : [{
+    "id": 524901,
+    "name": "Moscow",
+    "country": "RU",
+    "coord": {
+      "lon": 37.615555,
+      "lat": 55.75222
+    }
+},
+{
+    "id": 2950159,
+    "name": "Berlin",
+    "country": "DE",
+    "coord": {
+      "lon": 13.41053,
+      "lat": 52.524368
+    }
+},
+
+{
+    "id": 2643743,
+    "name": "London",
+    "country": "GB",
+    "coord": {
+      "lon": -0.12574,
+      "lat": 51.50853
+    }
+  },
+
+  {
+    "id": 6455259,
+    "name": "Paris",
+    "country": "FR",
+    "coord": {
+      "lon": 2.35236,
+      "lat": 48.856461
+    }
+  },
+
+  {
+    "id": 2653822,
+    "name": "Cardiff",
+    "country": "GB",
+    "coord": {
+      "lon": -3.18,
+      "lat": 51.48
+    }
+  },
+
+  {
+    "id": 2964574,
+    "name": "Dublin",
+    "country": "IE",
+    "coord": {
+      "lon": -6.26719,
+      "lat": 53.34399
+    }
+  },
+
+  {
+    "id": 2655984,
+    "name": "Belfast",
+    "country": "GB",
+    "coord": {
+      "lon": -5.93333,
+      "lat": 54.583328
+    }
+  },
+
+  {
+    "id": 2618425,
+    "name": "Copenhagen",
+    "country": "DK",
+    "coord": {
+      "lon": 12.56553,
+      "lat": 55.675941
+    }
+  },
+
+  {
+    "id": 2673730,
+    "name": "Stockholm",
+    "country": "SE",
+    "coord": {
+      "lon": 18.064899,
+      "lat": 59.332581
+    }
+  },
+
+  {
+    "id": 3169070,
+    "name": "Roma",
+    "country": "IT",
+    "coord": {
+      "lon": 12.4839,
+      "lat": 41.894741
+    }
+  },
+
+  {
+    "id": 2649808,
+    "name": "Exeter",
+    "country": "GB",
+    "coord": {
+      "lon": -3.52751,
+      "lat": 50.723598
+    }
+  },
+
+  {
+    "id": 2759794,
+    "name": "Amsterdam",
+    "country": "NL",
+    "coord": {
+      "lon": 4.88969,
+      "lat": 52.374031
+    }
+  }]
+  }
+
+
+
